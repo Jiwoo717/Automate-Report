@@ -1,2 +1,2 @@
 # Automate-Report
-Script to automate file download and perform data cleaning to use for report creation
+<p> This repository for now will serve as a repo to store all reports or automatation related scripts. </p>
